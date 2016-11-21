@@ -134,11 +134,11 @@ a:visited {
 }
 
 #joe-burgess-card {
-  background-image: url("../assets/img/joe-burgess.jpeg");
+  background-image: url("../assets/img/pro.jpeg");
 }
 
 #joe-burgess-cover {
-  background-image: url("../assets/img/joe-burgess-cover.png");
+  background-image: url("../assets/img/pro.png");
 }
 
 #avi-flombaum-card {
@@ -147,6 +147,10 @@ a:visited {
 
 #mat-balez-card {
   background-image: url("../assets/img/mat-balez.jpeg");
+}
+#my_profile{
+  background-image: url("../assets/img/pro.jpg");
+
 }
 
 #mathieu-balez-cover {
@@ -454,7 +458,7 @@ a:visited {
 }
 
 
-/* CLEARFIX HACK
+/* CLEARFIX
 ======================== */
 
 .clearfix:before,
